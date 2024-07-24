@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hi ! a2.txt in master
+=======
+hi ! i am edited version of a2.txt in (branch-1) in dir-2
+>>>>>>> branch-1
